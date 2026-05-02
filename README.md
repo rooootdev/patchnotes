@@ -1,2 +1,3 @@
 # patchnotes
-Fetch Security Content Notes from apple's website and display them nicely!
+fetches apples security content notes and lists them.<br>
+live @ https://roooot.dev/patches
